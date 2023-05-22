@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "title": "Laptop Thinkpad",
+      "details": "MSI",
+      "price": "900000",
+      "discount": "11",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 5
+    },
+    {
+      "title": "Laptop B",
+      "details": "MSI",
+      "price": "30000",
+      "discount": "90",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 6
+    },
+    {
+      "title": "Laptop Acer",
+      "details": "MSI",
+      "price": "50000",
+      "discount": "0",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 7
+    },
+    {
+      "title": "Laptop Thinkpad",
+      "details": "MSI",
+      "price": "300000",
+      "discount": "15",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 8
+    },
+    {
+      "title": "Macbook",
+      "details": "Apple",
+      "price": "20000",
+      "discount": "0",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "title": "Laptop Sur",
+      "details": "MSI",
+      "price": 300300,
+      "discount": 0
+    },
+    {
+      "id": 11,
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "title": "Laptop Surface",
+      "details": "MSI",
+      "price": 70000,
+      "discount": 30
+    },
+    {
+      "id": 12,
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "title": "Laptop Asus",
+      "details": "MSI",
+      "price": 80000,
+      "discount": 0
+    },
+    {
+      "title": "Laptop Gigabyte",
+      "details": "MSI",
+      "price": "300033",
+      "discount": "23",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 13
+    },
+    {
+      "title": "Laptop BBB",
+      "details": "MSI",
+      "price": "30",
+      "discount": "0",
+      "url_image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "id": 14
+    },
+    {
+      "id": 14,
+      "url_image": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "url_logo": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "title": "Laptop BBB",
+      "details": "MSI",
+      "price": 30,
+      "discount": 30
+    },
+    {
+      "title": "Laptop ABC",
+      "details": "abc",
+      "price": "300000",
+      "discount": "80",
+      "url_image": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+      "url_logo": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+      "id": 15
+    },
+    {
+      "title": "Laptop ABC",
+      "details": "msi",
+      "price": "80000",
+      "discount": "0",
+      "url_image": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+      "url_logo": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+      "id": 16
+    },
+    {
+      "title": "Laptop DEF",
+      "details": "def",
+      "price": "3000",
+      "url_image": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg",
+      "url_logo": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg",
+      "id": 17,
+      "discount": 0
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "QuanLDM",
+      "username": "QuanLDM",
+      "password": "1111",
+      "email": "quanldm@dipro.vn",
+      "add": "SonTra-DaNang",
+      "age": 23
+    }
+  ]
+}
